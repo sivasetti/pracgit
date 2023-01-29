@@ -1,0 +1,30 @@
+img{
+    width: 1500px;
+    height: 200px;
+}
+.scroll{
+    background-color: aquamarine;
+    color: crimson;
+    height: 50px;
+    font-size: 40px;
+    font-family: verdana;
+    font-weight: 100;
+}
+.book{
+    border-color:blueviolet;
+    border-radius: 10%;
+    background-color: rgb(44, 182, 127);
+    color: aliceblue;
+    margin: 5%;
+    padding: 1%;
+    font-weight: 100;
+    font-size: 100%;
+
+}
+body{
+    background-color: antiquewhite;
+}
+.form{
+    text-align: center;
+    font-size: 200%
+}
